@@ -1,6 +1,6 @@
 {
   "name": "china-area-tree-data",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "中国省市区树数据，中国省市区级联数据",
   "main": "index.js",
   "scripts": {
